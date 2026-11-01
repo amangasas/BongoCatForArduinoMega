@@ -6,6 +6,10 @@ A physical Bongo Cat that lives on an Arduino Mega 2560 with a Whadda WPSH412 TF
 
 This is a port of [vostoklabs/bongo_cat_monitor](https://github.com/vostoklabs/bongo_cat_monitor) for the Arduino Mega. It is not remotely as fast or polished as the original, but it works as a standalone hardware display.
 
+## Preview
+
+<img src="Pictures/1.jpeg" width="25%" alt="Bongo Cat on Arduino Mega">
+
 ## Project structure
 
 ```
